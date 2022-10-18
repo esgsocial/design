@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://esgsocial.design.github.io/blog</id>
-    <title>ESG Web Builder Blog</title>
+    <title>Web Design Tool by esg.social Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://esgsocial.design.github.io/blog"/>
-    <subtitle>ESG Web Builder Blog</subtitle>
+    <subtitle>Web Design Tool by esg.social Blog</subtitle>
     <icon>https://esgsocial.design.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
